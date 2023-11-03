@@ -4,7 +4,7 @@ export function TaskForm2() {
   const { id } = useParams();
   return (
     <>
-      <h2>TaskForm: {id}</h2>
+      <h2 className="title">TaskForm: {id}</h2>
     </>
   );
 }

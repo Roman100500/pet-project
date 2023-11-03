@@ -1,7 +1,7 @@
 export function TaskList() {
   return (
     <>
-      <h2>TaskList</h2>
+      <h2 className="title">TaskList</h2>
     </>
   );
 }

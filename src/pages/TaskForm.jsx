@@ -1,7 +1,7 @@
 export function TaskForm() {
   return (
     <>
-      <h2>TaskForm</h2>
+      <h2 className="title">TaskForm</h2>
     </>
   );
 }
